@@ -8,5 +8,5 @@ Voice search in Yoruba and translation of text on images into Yoruba audio.
 Translation of French/English text into Yoruba audio.
 With a focus on providing essential functionalities, Alɔ Do Mɛ Tɔ aims to assist users effectively in their daily tasks. Explore the diverse capabilities and experience the convenience of our assistant.
 
-
-
+### Screenshots
+![image](https://github.com/Pharex123/AIDA/blob/main/Maquette.jpg?raw=true)
